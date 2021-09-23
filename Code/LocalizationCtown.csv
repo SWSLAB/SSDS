@@ -1,0 +1,15 @@
+Row,Identified_DMA_WSA,Identified_DMA_WTA,Identified_DMA_BSA,Majority_Vote,True_DMA
+Event 1,5,5,5,5,5
+Event 2,5,5,5,5,5
+Event 3,1,1,4,1,1
+Event 4,4,1,1,1,1
+Event 5,2,2,2,2,2
+Event 6,2,2,2,2,2
+Event 7,2,2,2,2,2
+Event 8,3,3,3,3,3
+Event 9,1,1,1,1,1
+Event 10,1,1,1,1,1
+Event 11,1,1,1,1,1
+Event 12,2,1,1,1,1
+Event 13,5,4,4,4,5
+Event 14,2,2,2,2,2
